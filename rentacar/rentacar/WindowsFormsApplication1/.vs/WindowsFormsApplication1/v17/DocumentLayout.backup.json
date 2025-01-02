@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDE3496-2E34-42CF-8390-3B8E154145A2}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|d:\\rentacar1\\rentacar\\windowsformsapplication1\\windowsformsapplication1\\listvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDE3496-2E34-42CF-8390-3B8E154145A2}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\listvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDE3496-2E34-42CF-8390-3B8E154145A2}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\windowsformsapplication1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDE3496-2E34-42CF-8390-3B8E154145A2}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listVehicle.cs",
+              "DocumentMoniker": "D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\WindowsFormsApplication1\\listVehicle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\listVehicle.cs",
+              "ToolTip": "D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\WindowsFormsApplication1\\listVehicle.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\listVehicle.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwCQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:48:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homePage.cs [Design]",
+              "DocumentMoniker": "D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\WindowsFormsApplication1\\homePage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\homePage.cs",
+              "ToolTip": "D:\\rentacar1\\rentacar\\WindowsFormsApplication1\\WindowsFormsApplication1\\homePage.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\homePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:13:22.245Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
